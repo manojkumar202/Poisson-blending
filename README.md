@@ -7,4 +7,4 @@ For seamless blending, image gradients are used instead of pixel intensity to bl
 ![second.png](second.png)
 
 
-## [Image reconstruction using gradients] folder contains code for construction of the any given image using only the gradients of the image.
+## [Image reconstruction using gradients] folder contains code for construction of the any given image using the second order derivative equations of each pixel of the image.
