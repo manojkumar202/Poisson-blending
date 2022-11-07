@@ -6,3 +6,5 @@ For seamless blending, image gradients are used instead of pixel intensity to bl
 ### After selecting a patch from the source image it is pasted over the target image at desired location. Here, the boat is pasted over the dark sky in target image.
 ![second.png](second.png)
 
+
+## [Image reconstruction using gradients] folder contains code for construction of the any given image using only the gradients of the image.
